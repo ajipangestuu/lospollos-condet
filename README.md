@@ -2,6 +2,9 @@
 Website penjualan ayam , minuman & blue meth dengan sistem pemesanan berbasis **Django**.  
 Dibuat untuk memenuhi tugas kuliah oleh **Kelompok 6**.
 
+<p align="center">
+  <img src="networking.gif" alt="Networking GIF" width="512"/>
+</p>
 ---
 
 ## 👥 Anggota Kelompok 6
@@ -9,7 +12,7 @@ Dibuat untuk memenuhi tugas kuliah oleh **Kelompok 6**.
 - Nanda Asfa Priyambada  
 - Arief Fadillah  
 - Sheva Arfandi  
-- Fika Karunia Saputr  
+- Fika Karunia Saputri
 - M. Ibnu Naizep  
 
 ---
