@@ -3,7 +3,7 @@ Website penjualan ayam , minuman & blue meth dengan sistem pemesanan berbasis **
 Dibuat untuk memenuhi tugas kuliah oleh **Kelompok 6**.
 
 <p align="center">
-  <img src="lospollos.avif" alt="Networking GIF" width="512"/>
+  <img src="images.jpg" alt="Networking GIF" width="512"/>
 </p>
 ---
 
